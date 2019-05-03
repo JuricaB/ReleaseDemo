@@ -1,0 +1,11 @@
+{
+    "name": "Acumen ruleset",
+    "description": "Acumen Custom rules",
+    "rules": [
+        {
+            "id": "AA0139",
+            "action": "None",
+            "justification": "We will take care of overflows ourselves."
+        }
+    ]
+}

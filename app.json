@@ -1,0 +1,26 @@
+{
+  "id": "0766460a-f215-465b-a754-50afd8082460",
+  "name": "ReleaseDemo",
+  "publisher": "Jurica Bogunovic",
+  "brief": "Release process demo",
+  "description": "Release process demo",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "runtime": "2.0",
+  "idRange": {
+    "from": 60000,
+    "to": 69999
+  },
+  "features": ["TranslationFile"],
+  "showMyCode": true,
+  "target": "Extension"
+}
